@@ -1,5 +1,5 @@
-# Heofon License
-The Heofon License is a custom License where if a user uses the Heofon License then it means other Github users have to only update one file of the hole Repo given the name of the file, He is a example:
+# Norvek Software License (NSL)
+The Norvek Software License (NSL) is a custom License where if a user uses NSL then it means other Github users have to only update one file of the hole Repo given the name of the file, He is a example:
 
 ### Copyright (c) 2026 [Your name or software]
 
